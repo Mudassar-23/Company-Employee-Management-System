@@ -21,4 +21,13 @@ Microsoft Visual Studio Code:
 ```bash
  https://visualstudio.microsoft.com/
 ```
+---
+## How to Run the Project
+
+1: Clone the repository to your local machine
+
+```bash
+ git clone https://github.com/Mudassar-23/Company-Employee-Management-System.git
+```
+    
     
